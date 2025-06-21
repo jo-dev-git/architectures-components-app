@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Architecture Components App</string>
+    <string name="add_one">+1</string>
+    <string name="update_name">Update name</string>
 </resources>
